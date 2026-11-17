@@ -1,0 +1,5 @@
+{
+  "name": "kara-kartal",
+  "owner": { "name": "omer1903toker-stack" },
+  "plugins": [{ "name": "kara-kartal-stadium", "source": "./" }]
+}
